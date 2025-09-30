@@ -13,7 +13,7 @@ Main finding: Content-based methods outperformed collaborative filtering in both
 pandas, numpy, scikit-learn, scipy, matplotlib, seaborn
 
 ## Datasets
-Datasets can be found here, please put the "Datasets" folder in the root directory of the project.
+Datasets can be found here https://drive.google.com/file/d/1dQSh9anfRPYk3M7JQp-yvcpFr36l9BF0/view?usp=sharing, please put the "Datasets" folder in the root directory of the project.
 - `Datasets/The Movies Dataset/` - movies_clean.csv, content_features.csv, ratings_clean.csv
 - `Datasets/goodbooks_10k_rating_and_description/` - goodbooks_10k_rating_and_description.csv, ratings,csv
 
